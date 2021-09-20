@@ -27,17 +27,16 @@ const BoardOutlne = styled.div`
   position: relative;
 `
 const BoardGrid = styled.div`
-    width: 908px;
-    height: 908px;
-    border-right: 1px solid black;
-    border-bottom: 1px solid black;
-    background-size: 51px 51px;
+    width: 910px;
+    height: 910px;
+    background-size: 50.5px 50.5px;
     background-image:
-    linear-gradient(to right, black 1px, transparent 1px),
-    linear-gradient(to bottom, black 1px, transparent 1px);
+    linear-gradient(to right, black 1px, transparent 0px),
+    linear-gradient(to bottom, black 1px, transparent 0px);
     position: absolute;
     top: 48px;
-    left: 48px;
+    left: 48px
+
 `
 const Background = styled.div`
   background-color: #878847;
