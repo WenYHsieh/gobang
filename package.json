@@ -24,7 +24,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/Lidemy/mentor-program-5th-WenYHsieh/homeworks/week21/hw2",
+  "homepage": "https://WenYHsieh.github.io/my-app",
   "eslintConfig": {
     "extends": [
       "react-app",
