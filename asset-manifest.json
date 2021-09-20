@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/my-app/static/js/main.ff044ea9.chunk.js",
-    "main.js.map": "/my-app/static/js/main.ff044ea9.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.063b33b1.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.063b33b1.js.map",
-    "static/js/2.8303ab9e.chunk.js": "/my-app/static/js/2.8303ab9e.chunk.js",
-    "static/js/2.8303ab9e.chunk.js.map": "/my-app/static/js/2.8303ab9e.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/js/2.8303ab9e.chunk.js.LICENSE.txt": "/my-app/static/js/2.8303ab9e.chunk.js.LICENSE.txt"
+    "main.js": "/gobang/static/js/main.ff044ea9.chunk.js",
+    "main.js.map": "/gobang/static/js/main.ff044ea9.chunk.js.map",
+    "runtime-main.js": "/gobang/static/js/runtime-main.05307713.js",
+    "runtime-main.js.map": "/gobang/static/js/runtime-main.05307713.js.map",
+    "static/js/2.d7583787.chunk.js": "/gobang/static/js/2.d7583787.chunk.js",
+    "static/js/2.d7583787.chunk.js.map": "/gobang/static/js/2.d7583787.chunk.js.map",
+    "index.html": "/gobang/index.html",
+    "static/js/2.d7583787.chunk.js.LICENSE.txt": "/gobang/static/js/2.d7583787.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.063b33b1.js",
-    "static/js/2.8303ab9e.chunk.js",
+    "static/js/runtime-main.05307713.js",
+    "static/js/2.d7583787.chunk.js",
     "static/js/main.ff044ea9.chunk.js"
   ]
 }
