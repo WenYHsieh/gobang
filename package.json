@@ -24,7 +24,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://WenYHsieh.github.io/my-app",
+  "homepage": "https://WenYHsieh.github.io/gobang",
   "eslintConfig": {
     "extends": [
       "react-app",
